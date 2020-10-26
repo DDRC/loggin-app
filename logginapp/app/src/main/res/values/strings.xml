@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loggin app</string>
+    <string name="Log">Iniciar Sesion</string>
+    <string name="etUser">Ingrese su usuario</string>
+    <string name="etPSW">Ingrese su contraseña</string>
+    <string name="btnGo">Ingresar</string>
+
+    <string name="exit">Salir</string>
+</resources>
