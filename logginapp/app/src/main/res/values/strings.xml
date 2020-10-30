@@ -4,6 +4,12 @@
     <string name="etUser">Ingrese su usuario</string>
     <string name="etPSW">Ingrese su contraseña</string>
     <string name="btnGo">Ingresar</string>
-
+    <string name="btn_reg">Si no tienes una cuenta registrate</string>
     <string name="exit">Salir</string>
+    <string name="singup">Registrarse</string>
+    <string name="cancel">Cancelar</string>
+    <string name="singupmodule">Registro de cuentas</string>
+    <string name="user">Usuario</string>
+    <string name="psw">Contraseña</string>
+    <string name="confirmPsw">Confirme su contraseña</string>
 </resources>

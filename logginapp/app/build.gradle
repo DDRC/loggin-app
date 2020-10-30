@@ -34,5 +34,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     // linea para implementar mongo db movile
-    implementation 'org.mongodb:stitch-android-sdk:4.2.0'
+    //implementation 'org.mongodb:stitch-android-sdk:4.2.0'
+    classpath "io.realm:realm-gradle-plugin:10.0.0"
+    compile 'org.mongodb:stitch-android-sdk:4.5.0'
+    compile 'org.mongodb:mongodb-driver-sync:4.1.1'
+    compile 'org.mongodb:mongodb-driver-legacy:4.1.1'
 }
